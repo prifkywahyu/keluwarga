@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "872278116508",
+    "firebase_url": "https://keluwarga-d4357.firebaseio.com",
+    "project_id": "keluwarga-d4357",
+    "storage_bucket": "keluwarga-d4357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872278116508:android:7a49e307c21116fb674559",
+        "android_client_info": {
+          "package_name": "com.mobile.apps.keluwarga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872278116508-e0dfdoiqun812iq47mm0q254q2j74h7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.apps.keluwarga",
+            "certificate_hash": "43616fbc8a59bb3152f401080fde09c71e323d0b"
+          }
+        },
+        {
+          "client_id": "872278116508-60b56r8l07co866dh7o42tm537dpuivj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGx0sCP7qigXD5TNF_GkRdwOttbKApn38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872278116508-60b56r8l07co866dh7o42tm537dpuivj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

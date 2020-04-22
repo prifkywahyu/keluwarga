@@ -1,0 +1,65 @@
+<resources>
+    <!-- General strings -->
+    <string name="app_name">Keluwarga</string>
+    <string name="hello_message">Selamat Datang!</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_request">Pengajuan</string>
+    <string name="title_profile">Akun</string>
+    <string name="login">Masuk</string>
+    <string name="logout">Keluar</string>
+    <string name="register">Daftar</string>
+    <string name="or">Atau</string>
+    <string name="next">Buat Akun</string>
+    <string name="abort">Batal</string>
+    <string name="understand">Mengerti</string>
+    <string name="okay">Oke</string>
+    <string name="yeah">Yeay</string>
+    <string name="active_request">Pengajuan Aktif</string>
+    <string name="history">Riwayat</string>
+    <string name="agenda">Agenda</string>
+    <string name="report">Laporan</string>
+    <string name="document">Surat Pengantar</string>
+    <string name="villager">Warga Asli</string>
+    <string name="domicile">Meruya Selatan</string>
+    <string name="profile_head">Profil Ketua RW</string>
+    <string name="profile_subhead">Profil Ketua RT</string>
+    <string name="update_virus">Update COVID-19</string>
+    <string name="country">Indonesia</string>
+    <string name="global">Global</string>
+    <string name="total_positive">Total Positif</string>
+    <string name="total_cure">Total Sembuh</string>
+    <string name="total_death">Total Meninggal</string>
+
+    <!-- Authentication strings -->
+    <string name="login_line">Mulai petualangan kamu</string>
+    <string name="register_line">Menjadi bagian komunitas</string>
+    <string name="direct_login">Sudah punya akun? Masuk sini!</string>
+    <string name="direct_register">Belum punya akun? Buat yuk!</string>
+    <string name="script_reset">Masukkan alamat email kamu yang telah terdaftar, kami akan mengirimkan link untuk reset kata sandi.</string>
+    <string name="success_reset">Link reset kata sandi kamu sudah dikirimkan ke email, cek dan segera diubah ya!</string>
+    <string name="input_email">Alamat Email</string>
+    <string name="input_password">Kata Sandi</string>
+    <string name="input_id_number">Nomor KTP</string>
+    <string name="confirm_password">Ulang Kata Sandi</string>
+    <string name="forgot_password">Lupa kata sandi?</string>
+    <string name="reset_button">Reset Kata Sandi</string>
+    <string name="statement_user">Dengan mendaftar, saya menyatakan bahwa benar penduduk di RW 003.</string>
+    <string name="success_register">Kamu telah berhasil membuat akun, verifikasi email yuk sebelum masuk ke aplikasi.</string>
+    <string name="advice_verify">Tampaknya akun kamu belum verifikasi email nih, verifikasi dulu yuk!</string>
+    <string name="double_back">Tekan kembali ulang untuk keluar</string>
+    <string name="progress_text">Akun kamu sedang diproses</string>
+    <string name="progress_reset">Reset kata sandi diproses</string>
+
+    <!-- Error messages -->
+    <string name="error">Oops</string>
+    <string name="network_failed">Kayaknya internet kamu lelah, coba dinyalakan kembali ya.</string>
+    <string name="blank_email">Alamat email tidak boleh kosong</string>
+    <string name="wrong_email">Format alamat email kamu salah</string>
+    <string name="blank_password">Kata sandi tidak boleh kosong</string>
+    <string name="pass_minimum">Kata sandi minimal 6 karakter</string>
+    <string name="pass_maximum">Kata sandi maksimal 20 karakter</string>
+    <string name="blank_retype">Ulang kata sandi tidak boleh kosong</string>
+    <string name="wrong_password">Ulang kata sandi kamu salah</string>
+    <string name="blank_id">Nomor KTP tidak boleh kosong</string>
+    <string name="wrong_id">Nomor KTP harus 16 digit</string>
+</resources>
